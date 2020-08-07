@@ -2,8 +2,8 @@
   <div style="display: block; height: 100%; overflow-y: hidden">
     <alerta-notificacao
         :mensagem="alerta.mensagem"
-        :mostrar-alerta="alerta.mostrarAlerta"
         :tipo-alerta="alerta.tipoAlerta"
+        :alerta="alerta.mostrarAlerta"
     />
 
     <div class="barra-superior">
