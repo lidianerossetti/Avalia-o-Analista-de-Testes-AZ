@@ -3,7 +3,7 @@ import {mutationTypes} from '../constants'
 
 export default {
 
-    [mutationTypes.SET_BEM_CONSUMO](state, novosBemConsumo) {
-        Vue.set(state, 'listaBemConsumo', novosBemConsumo)
+    [mutationTypes.SET_BENS_CONSUMO](state, bensConsumo) {
+        Vue.set(state, 'bensConsumo', bensConsumo)
     }
 }

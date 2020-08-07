@@ -1,3 +1,3 @@
 export default {
-    SET_BEM_CONSUMO: 'setBemConsumo'
+    SET_BENS_CONSUMO: 'setBensConsumo'
 }

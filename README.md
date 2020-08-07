@@ -2,7 +2,9 @@
 
 **Pré-requisitos**
 
-NodeJS e NPM instalados
+- Git
+- NPM
+- NodeJS 
 
 **Instruções**
 
@@ -14,11 +16,17 @@ NodeJS e NPM instalados
 - Acessar a aplicação pelo caminho http://localhost:8080/
 
 
-**Objetivos do Teste**
+**Objetivos do teste**
+- Subir a aplicação, conforme orientações;
+- Executar e reportar o resultado da execução dos CAs(Critérios de aceite) listadas na aplicação;
+- Encontrar e reportar os bugs da aplicação.
 
-- Encontrar e reportar a maior quantidade de bugs possível na aplicação;
-- Executar e reportar o resultado da excução dos CAs (Critérios de aceite) listadas na direita da aplicação;
-- Descrever os bugs encontrados de forma a ser possível a reprodução do bug pelo desenvolvedor que vai corrigir o problema.
+**Critérios de avaliação**
+
+Serão avaliados os seguintes critérios
+- Capacidade de subir o ambiente, conforme orientações;
+- Quantidade de bugs encontrados pelo Analista de Teste;
+- Qualidade da descrição e nível de detalhes do registro dos bugs encontrados.
 
 
 **Boa prova!**

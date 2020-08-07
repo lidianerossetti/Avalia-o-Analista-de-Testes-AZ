@@ -1,13 +1,13 @@
 {
-  "todo": [
+  "bem-consumo": [
     {
       "id": 1,
-      "descricao": "Caneta esferográficas",
-      "unidade": "Caixa (6 unidades)",
-      "valor": "100",
+      "descricao": "22",
+      "unidade": "Embalagem individual",
+      "valor": "3",
       "andar": "A1",
-      "corredor": "C1",
-      "prateleira": "P1"
+      "corredor": "C2",
+      "prateleira": "P2"
     }
   ]
 }
