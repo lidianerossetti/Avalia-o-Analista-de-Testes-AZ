@@ -1,0 +1,13 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "descricao": "Caneta esferográficas",
+      "unidade": "Caixa (6 unidades)",
+      "valor": "100",
+      "andar": "A1",
+      "corredor": "C1",
+      "prateleira": "P1"
+    }
+  ]
+}
